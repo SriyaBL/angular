@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+$font: "Poppins", sans-serif;
+
+$nude-pink: #F5C8C7;
+$lavender: #e6e6fa;
+$lilac: #c8a2c8;
+$baby-pink: #f4c2c2;
+$peach: #ffdab9;
+$sea-green: #9fe2bf;
+$pastel-yellow: #ffffb3;
+$mint-green: #98ff98;
+$sky-blue: #87ceeb;
+$pastel-blue: #aec6cf;
+$pastel-purple: #b39eb5;
+$pastel-green: #77dd77;
+$pastel-orange: #ffb347;
+$pastel-red: #ff6961;
+$pastel-pink: #ffd1dc;
+$pastel-turquoise: #afeeee;
+$pastel-coral: #f88379;
+$pinterest-red: #E60023;  // The classic Pinterest red
+$soft-pink: #F4E1E1;      // Soft, light pink
+$pale-peach: #FFE5D9;     // A gentle, pale peach color
+$muted-blush: #E7B8B1;    // A muted blush pink
+$warm-sand: #F1D1B5;      // Warm, sandy beige
+$soft-taupe: #D3B8AE;     // Soft taupe with a hint of pink
+$light-mauve: #D7A9A3;    // A light, muted mauve
+$gentle-rose: #F8C2BA;    // Gentle rose pink
+$cool-grey: #B0A8B9;      // A cool, muted grey
+$ivory-cream: #F8F4E3;    // Soft, ivory cream
+
+
+body {
+  font-family: $font;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
